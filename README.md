@@ -5,3 +5,5 @@
 ### [JavaScript](https://github.com/retrotechie/rt-coding-conventions/wiki/JavaScript)
 
 ### [Commit Messages](https://github.com/retrotechie/rt-coding-conventions/wiki/Commit-Messages)
+
+### [MySQL](https://github.com/retrotechie/rt-coding-conventions/wiki/MySQL)
