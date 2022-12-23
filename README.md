@@ -3,3 +3,5 @@
 ### [Python](https://github.com/retrotechie/rt-coding-conventions/wiki/Python)
 
 ### [JavaScript](https://github.com/retrotechie/rt-coding-conventions/wiki/JavaScript)
+
+### [Commit Messages](https://github.com/retrotechie/rt-coding-conventions/wiki/Commit-Messages)
